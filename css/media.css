@@ -1,0 +1,60 @@
+@media(max-width:768px){
+    .navbar-light .navbar-toggler {
+        border: transparent;
+        color: transparent;
+    }
+    .top_header{
+        display: none;
+    }
+    .quasi_text{
+        text-align: center;
+    }
+    .quasi_text h2{
+        margin-top: 35px;
+    }
+    .mobile_quasi{
+        margin-top: 70px;
+    }
+    .why_us, .team_mobile, .pricing_item{
+        margin-bottom: 40px;
+    }
+    .mobile_s{
+        margin-top: 30px;
+    }
+    .price_m{
+        padding: 0 !important;
+    }
+    .question_section h5{
+        font-size: 15px;
+    }
+    .contact_m{
+        margin: 40px 0;
+    }
+    .footer_form{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .footer_form p{
+        margin: 5px 0;
+    }
+    .mobile_heading{
+        display: block;
+        border-top: 1px solid #5C9F24;
+    }
+    .emoji_m{
+        margin-bottom: 40px;
+    }
+}
+@media(max-width:575px){
+    .footer_m{
+        margin: 50px 0;
+    }
+    .contact_form{
+        margin: auto;
+    }
+    .pricing_item{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
